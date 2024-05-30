@@ -49,13 +49,15 @@ INSIGHTS GAINED FROM DATA:
    Attrition is highest among employees with a Bachelor's Degree. Reviewing compensation and       benefits packages for these employees could help in retaining them.
    Employee Engagement:
 
-The average job rating of 2.6/4 suggests room for improvement in employee engagement and satisfaction. Conducting employee surveys and acting on feedback could help enhance job satisfaction.
+5) The average job rating of 2.6/4 suggests room for improvement in employee engagement and 
+   satisfaction. Conducting employee surveys and acting on feedback could help enhance job 
+   satisfaction.
 
-5) Department-Specific Interventions:
+6) Department-Specific Interventions:
    Tailored interventions for departments with high attrition, such as Sales and R&D, can help     address specific issues unique to these areas.
    Support for Married Employees:
 
-Since married employees have a high attrition count, offering family-friendly policies and support programs might help in retaining them.
+Since married employees have a high attrition count to overcome this issue  offering family-friendly policies and support programs might help in retaining them.
 
 By addressing these key areas, the organization can work towards reducing attrition, enhancing employee satisfaction, and improving overall workforce stability.
 
