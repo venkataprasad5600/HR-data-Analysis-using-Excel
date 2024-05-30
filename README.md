@@ -7,9 +7,9 @@ informed decisions regarding their workforce management. Here’s a comprehensiv
 Key Features and Benefits:
 Data Collection and Management:
 
-1)Data Import: Import employee data from various sources such as HR management systems, CSV files, or databases.
+1) Data Import: Import employee data from various sources such as HR management systems, CSV files, or databases.
 
-2)Data Cleaning: Use Excel functions to remove duplicates, correct errors, and fill in missing values to ensure data accuracy.
+2) Data Cleaning: Use Excel functions to remove duplicates, correct errors, and fill in missing values to ensure data accuracy.
  Employee Demographics Analysis:
 
 3) Descriptive Statistics: Calculate mean, median, mode, standard deviation, and other   
