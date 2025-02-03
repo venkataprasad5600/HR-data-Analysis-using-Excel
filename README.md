@@ -1,10 +1,10 @@
-project title : HR DATA ANALYSIS  using Excel.
+# 📌 HR DATA ANALYSIS  using Excel.
 
 Human Resource (HR) data analysis using Excel involves leveraging Excel's powerful data processing and visualization tools
 to analyze various aspects of employee data. This type of analysis helps organizations make 
 informed decisions regarding their workforce management. Here’s a comprehensive description of HR data analysis using Excel:
 
-Key Features and Benefits:
+# ✨Key Features and Benefits:
 Data Collection and Management:
 
 1) Data Import: Import employee data from various sources such as HR management systems, CSV files, or databases.
@@ -34,7 +34,7 @@ Data Collection and Management:
    iv) Macros: Automate repetitive tasks to save time and improve efficiency.
    By utilizing Excel for HR data analysis, organizations can gain valuable insights into their workforce,enhance decision-making processes, and ultimately drive better outcomes in terms of employee performance, satisfaction, and retention.
 
-INSIGHTS GAINED FROM DATA:
+# 📊 INSIGHTS GAINED FROM DATA:
 
 1) The total attrition percentage  of the employee is 16.12% and average age of employee who       has been working in organization is 37.
 2) Focus on Retaining Sales Executives:
